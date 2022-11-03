@@ -87,6 +87,6 @@ CREATE TABLE `Facturas`(
   );
 
 # NOTA En esta última tabla tendremos que incluir todos los CONSTRAINTnecesarios para establecer los relaciones entre las tablas, donde tendremos que especificar:
-Foreign Key
-References
-Happy coding 🌊
+# Foreign Key
+# References
+# Happy coding 🌊
